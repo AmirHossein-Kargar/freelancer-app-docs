@@ -1,0 +1,13 @@
+body {
+  caret-color: transparent;
+}
+html.dark body {
+  ::selection {
+    color: #a8b1ff;
+  }
+}
+body {
+  ::selection {
+    color: #3451b2;
+  }
+}
